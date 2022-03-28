@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 8001,
+    "Value": "Ultra"
+  },
+  {
+    "Id": 8002,
+    "Value": "Ultimate"
+  },
+  {
+    "Id": 8004,
+    "Value": "High"
+  },
+  {
+    "Id": 8003,
+    "Value": "Maximum"
+  },
+  {
+    "Id": 8000,
+    "Value": "Extreme"
+  }
+]
